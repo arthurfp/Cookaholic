@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="loginViewsMargin">20dp</dimen>
+    <dimen name="loginErrorMargin">10dp</dimen>
+    <dimen name="loginCardRadius">20dp</dimen>
+    <dimen name="loginSubTextSize">12sp</dimen>
+    <dimen name="loginErrorTextSize">20sp</dimen>
+    <dimen name="loginInputTextSize">20sp</dimen>
+    <dimen name="loginAppNameTextSize">40sp</dimen>
+    <dimen name="loginMinHeight">70dp</dimen>
+    <dimen name="headerTextSize">22sp</dimen>
+    <dimen name="signup_text_margin_top">10dp</dimen>
+</resources>

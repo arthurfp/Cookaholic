@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/share_recipe_menu"
+        android:title="@string/share"
+        android:icon="@drawable/ic_share"
+        android:iconTint="@color/white"
+        android:visible="false"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/add_to_favorites_menu"
+        android:icon="@drawable/ic_star_filled"
+        android:title="Add to Favorites"
+        app:showAsAction="ifRoom"
+        android:iconTint="@color/white"/>
+
+</menu>
